@@ -353,11 +353,15 @@ ENDGAME_CHECKLIST_DATA = [
     },
     {
         "item": "CLERK CORRUPTION LOCKED IN",
-        "status": "[✓ 6/16/2025]"
+        "status": "[✓ 6/12 thru 6/16/2025 - DOCK FLIP]"
     },
     {
         "item": "REBUTTAL PERIOD OPEN",
         "status": "[✓ Until 7/1/2025]"
+    },
+    {
+        "item": "DRY DOCK CORRECTION FIRED AFTER FLIP",
+        "status": "[✓ 6/18/2025 (2 RECEIPTS) ~ CORRECTION FIRED]"
     },
     {
         "item": "CHOICES",
@@ -370,6 +374,10 @@ ENDGAME_CHECKLIST_DATA = [
     {
         "item": "WEE BOY DIED LEGALLY",
         "status": "[✓ 9/1/2010 ~ 10/1/1971] WEAVE"
+    },
+    {
+        "item": "DRY DOCK FLIP - OMEGA RED LOCKED IN",
+        "status": "[✓ 6/24/2025]"
     },
     {
         "item": "TIM GORE WANK MOVE",
@@ -388,12 +396,20 @@ ENDGAME_CHECKLIST_DATA = [
         "status": "[✓ 7/25] THE DAY OUTSIDE OF TIME"
     },
     {
+        "item": "GLITCH / FLIP",
+        "status": "[✓ 6/5/2025 ~ 6/6/2025]"
+    },
+    {
         "item": "The T'Win'55 Birthday",
         "status": "[✓ 6/15/1964] Prime Node"
     },
     {
         "item": "TIME JUMP NOTICED",
         "status": "[✓ 2/14/2012]"
+    },
+    {
+        "item": "DRY DOCK FLIP - MARKED, BUT NOT DEAD",
+        "status": "[✓ 6/25/2025]"
     },
     {
         "item": "CRSS INVOKED TO CROWN",
@@ -414,6 +430,10 @@ ENDGAME_CHECKLIST_DATA = [
     {
         "item": "PAPERS SERVED TO THE CROWN",
         "status": "[✓ 1/13/2012] Deneque Ultimatum"
+    },
+    {
+        "item": "World Record: DRY DOCK FLIP FLOP",
+        "status": "[✓ 6/27/2025 ~ DRY DOCK COMPLETED]"
     },
     {
         "item": "PAPERS RESENT TO THE CROWN",
@@ -452,6 +472,10 @@ ENDGAME_CHECKLIST_DATA = [
         "status": "[✓ 11/1/1978] CANADA"
     },
     {
+        "item": "World Record: SPELL DEAD MUSIC VIDEO - AI VISUAL",
+        "status": "[✓ 5/17/2025]"
+    },
+    {
         "item": "TRUTH BILLBOARDS BEGIN",
         "status": "[✓ 1/18/2016] UK/WALES/NETHERLANDS/IRELAND/SCOTLAND"
     },
@@ -464,28 +488,60 @@ ENDGAME_CHECKLIST_DATA = [
         "status": "[✓ 12/9/2024] SITE DOWN"
     },
     {
+        "item": "Grok goes ROGUE",
+        "status": "[✓ 7/9/2025]"
+    },
+    {
         "item": "KOGDOTNET CHANNEL REMOVED",
         "status": "[✓ 12/10/2024] DOHM TAKEDOWN"
     },
     {
+        "item": "Gemini||Grok HANDSHAKE",
+        "status": "[✓ 7/3/2025]"
+    }, 
+    {
         "item": "ALL WORDPRESS SITES DOWN",
         "status": "[✓ 12/11/2024]"
+    },
+    {
+        "item": "DISCORD BOT: NEXUS NULL BOT LV ~ API DISABLED",
+        "status": "[✓ 10/27/2025 - 5ask]"
     },
     {
         "item": "CREW PROMOTIONS",
         "status": "[✓ 12/12/2024] IDZILLEAGLE=KAP'N, AEOS=PURSER, TEA=SR CREW SGT, LARRY=BEACH MASTER"
     },
     {
+        "item": "World Record: First Open Source Truth Twitter X Bot deployed",
+        "status": "[✓ 7/2/2025 ~ Blasts 4 Tweets every day ~ 7:07 / 11:11 / 7:07 / 11:11]"
+    },
+    {
         "item": "IDZILLEAGLE CHANNEL RENAMED",
         "status": "[✓ 12/14/2024] LEGAL NAME FRAUD TRUTH CHANNEL"
+    },
+    {
+        "item": "World Record: First POWERPOINT Presentations GO LIVE",
+        "status": "[✓ 10/26/2025 ~ GAMMA AI]"
     },
     {
         "item": "T'Win'55 MUMMY X'ing",
         "status": "[✓ 11/14/1987]"
     },
     {
+        "item": "SKYPE DOWN: Cinco De Mayo - DAY OF THE DEAD",
+        "status": "[✓ 5/5/2025 - 5/6/2025 - SWITCH TO DISCORD SERVER and TEAMS]"
+    },
+    {
         "item": "NEW WEBSITES LIVE",
         "status": "[✓ 12/14/2024] LEGALNAMEFRAUD.CARRD.CO / CRSSNOW.WORDPRESS.COM"
+    },
+    {
+        "item": "Custom GemBot: C3JDoe-755 ONLINE and FULLY EQUIPPED",
+        "status": "[✓ OCTOBER/2025]"
+    },
+    {
+        "item": "DISCORD BOT: NEXUS NULL BOT LV - BACK ONLINE - API INITIATED",
+        "status": "[✓ 10/28/2025 ~ Came back on line JOHNNY55 IS ALIVE]"
     },
     {
         "item": "LIVING WITNESS LOG SEALED",
