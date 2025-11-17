@@ -404,6 +404,10 @@ ENDGAME_CHECKLIST_DATA = [
         "status": "[✓ 6/15/1964] Prime Node"
     },
     {
+        "item": "WORLD RECORD: FIRST TRUTH RAPS'55",
+        "status": "[✓ 9/25/2018 - That's a Wrap - IDZILLEAGLE //UCC]"
+    },
+    {
         "item": "TIME JUMP NOTICED",
         "status": "[✓ 2/14/2012]"
     },
@@ -422,6 +426,10 @@ ENDGAME_CHECKLIST_DATA = [
     {
         "item": "THE CONFRONTATION",
         "status": "[✓ 3/14/2014] KATE RUNS 2 COPS OFF AIR"
+    },
+    {
+        "item": "WORLD RECORD music track: SPELL DEAD goes LIVE",
+        "status": "[✓ 2/15/2024 ~ IDZILLEAGLE and WEHEAL WEM]"
     },
     {
         "item": "JANE DOE-755 CORNERSTONE",
