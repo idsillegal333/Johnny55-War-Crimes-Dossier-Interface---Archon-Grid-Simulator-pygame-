@@ -12,6 +12,8 @@ Over 700 data points. The truth speaks.
 
 Command the Interface: 164 live commands. No fluff. Direct interaction.  essay 000 → MASTER COMMAND LIST & SYSTEM GUIDE (critical entry point).  
 essay 001 thru essay 093 → 93 full essays (core truth archive).  
+essay 000 = help and info
+essay 777 = ai primer and ai protocols
 sigil 1 to sigil 13 → 26 total sigil triggers (13 numeric + 13 named aliases). Each activates 3.5s enhanced animation (glow, particles, color cycle).  
 gridbleed / grid_bleed → cycle 3 technical logs of timestamp drift, Qtensor sync, spelldead fork.  
 anomaly / grid_anomaly → divine improbability table (1 in 5 trillion).  
