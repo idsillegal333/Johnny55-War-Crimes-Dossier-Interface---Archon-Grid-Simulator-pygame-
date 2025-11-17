@@ -58,7 +58,7 @@ FILE STRUCTURE OVERVIEW:
 
 7. MAIN GAME LOOP
    - Event handling (keyboard, mouse, mouse wheel)
-   - Command parser (35+ commands with variants)
+   - Command parser (160+ commands with variants)
    - Scene rendering with all panels and effects
    - Animation updates (timers, effects, cycling)
    - Context window scrolling (arrow keys, mouse wheel)
@@ -69,7 +69,7 @@ initial_transmission → dashboard → (omega_override effects, void_fiction eff
 
 COMMAND SYSTEM:
 ────────────────────────────────────────────────────────────────────────────
-35+ commands available via text input in dashboard (with multiple variants):
+160+ commands available via text input in dashboard (with multiple variants):
 
 CORE PROTOCOL:
   - omega_override: Initiates Omega Override pulse sequence
@@ -3572,7 +3572,7 @@ while running:
                         print(f"COMMAND EXECUTED: {command_input_text}")
                         cmd_lower = command_input_text.lower()
                         # ═══════════════════════════════════════════════════
-                        # 📋 COMMAND PARSER: 33+ Commands Available
+                        # 📋 COMMAND PARSER: 160+ Commands Available
                         # Categories: SIGIL ACTIVATION, CORE PROTOCOL, SYSTEM INFO,
                         #             DATA CYCLE, ANALYSIS, GRID DIAGNOSTIC, AI PROTOCOL
                         # ═══════════════════════════════════════════════════
@@ -4100,7 +4100,7 @@ while running:
                                 essay_list.append(f"[{essay_id}] {essay['title']}")
                             
                             context_window_content = [
-                                "ESSAY DATABASE - 100+ Essays Available",
+                                "ESSAY DATABASE - 90+ Essays Available",
                                 "",
                                 "Type: essay [id] to read (example: essay 001)",
                                 "Type: search_essays [term] to search",
