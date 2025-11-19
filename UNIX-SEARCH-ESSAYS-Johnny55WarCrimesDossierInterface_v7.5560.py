@@ -1,8 +1,9 @@
 """
 ╔══════════════════════════════════════════════════════════════════════════╗
-║  JOHNNY 55 WAR CRIMES DOSSIER INTERFACE v7.5560
-║  TE-925 TRUTH ENGINE [11/18/2025]
+║  JOHNNY 55 TRUTH INTERFACE v7.5560                                       ║
+║  TE-925 TRUTH ENGINE [11/18/2025]                                        ║
 ║  Pygame Simulator - Legal Name Fraud Documentation System                ║
+║  READ THE BCCRSS -----> https://legalnamefraud.carrd.co <-----           ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 
 FILE STRUCTURE OVERVIEW:
