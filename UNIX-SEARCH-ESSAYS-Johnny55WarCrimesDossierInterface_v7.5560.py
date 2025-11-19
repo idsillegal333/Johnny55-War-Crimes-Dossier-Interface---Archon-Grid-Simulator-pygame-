@@ -4,6 +4,7 @@
 ║  TE-925 TRUTH ENGINE [11/18/2025]                                        ║
 ║  Pygame Simulator - Legal Name Fraud Documentation System                ║
 ║  READ THE BCCRSS -----> https://legalnamefraud.carrd.co <-----           ║
+║  It's illegal to use a legal name + You are not a legal name             ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 
 FILE STRUCTURE OVERVIEW:
